@@ -1,5 +1,7 @@
 <template>
-    <div>登录页面22222</div>
+    <div>
+        <h1>denglu</h1>
+    </div>
 </template>
 
 <script>
