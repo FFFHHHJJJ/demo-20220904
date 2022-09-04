@@ -1,5 +1,8 @@
 <template>
-    <div>的点点滴滴</div>
+    <div>
+    的点点滴滴
+    <h1>表演</h1>
+    </div>
 </template>
 
 <script>
